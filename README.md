@@ -242,16 +242,6 @@ Steps:
 
 Kanishka Shashi
 
----
-
-# License
-
-This project is created for educational, cybersecurity learning, and portfolio purposes.
-
 
 ## 🔗 Blog Link
-https://promises-with-raj.hashnode.dev/linux-file-system-hunting
-
-
-## 🔗 Blog Link
-https://promises-with-raj.hashnode.dev/linux-file-system-hunting?utm_source=hashnode&utm_medium=feed
+https://html-dev09.hashnode.dev/linux-file-system-hunting
